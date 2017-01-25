@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/motorola/griffin/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/motorola/griffin/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
-    vendor/motorola/griffin/proprietary/bin/qmuxd:system/bin/qmuxd \
+#    vendor/motorola/griffin/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/motorola/griffin/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/motorola/griffin/proprietary/bin/radish:system/bin/radish \
     vendor/motorola/griffin/proprietary/bin/rmt_storage:system/bin/rmt_storage \
@@ -676,5 +676,4 @@ PRODUCT_PACKAGES += \
     colorservice \
     ims \
     imssettings \
-    qcnvitems \
-    qcrilhook \
+    qcrilhook
