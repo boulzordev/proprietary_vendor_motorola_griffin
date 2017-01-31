@@ -1095,4 +1095,7 @@ PRODUCT_PACKAGES += \
     DCMO \
     DMService \
     ModFmwkProxyService \
-    ModService
+    ModService \
+    AudioMonitorHelper \
+    AudioMonitor \
+    ProjectorApp
