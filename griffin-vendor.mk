@@ -57,12 +57,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/etc/acdbdata/griffin/Bluetooth_cal.acdb:system/etc/acdbdata/griffin/Bluetooth_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/griffin/General_cal.acdb:system/etc/acdbdata/griffin/General_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/griffin/Global_cal.acdb:system/etc/acdbdata/griffin/Global_cal.acdb \
+    vendor/motorola/griffin/proprietary/etc/acdbdata/griffin/Handset_cal.acdb:system/etc/acdbdata/griffin/Handset_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/griffin/Hdmi_cal.acdb:system/etc/acdbdata/griffin/Hdmi_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/griffin/Headset_cal.acdb:system/etc/acdbdata/griffin/Headset_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/griffin/Speaker_cal.acdb:system/etc/acdbdata/griffin/Speaker_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/sheridan/Bluetooth_cal.acdb:system/etc/acdbdata/sheridan/Bluetooth_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/sheridan/General_cal.acdb:system/etc/acdbdata/sheridan/General_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/sheridan/Global_cal.acdb:system/etc/acdbdata/sheridan/Global_cal.acdb \
+    vendor/motorola/griffin/proprietary/etc/acdbdata/sheridan/Handset_cal.acdb:system/etc/acdbdata/sheridan/Handset_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/sheridan/Hdmi_cal.acdb:system/etc/acdbdata/sheridan/Hdmi_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/sheridan/Headset_cal.acdb:system/etc/acdbdata/sheridan/Headset_cal.acdb \
     vendor/motorola/griffin/proprietary/etc/acdbdata/sheridan/Speaker_cal.acdb:system/etc/acdbdata/sheridan/Speaker_cal.acdb \
