@@ -1098,8 +1098,4 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    ModFmwkProxyService \
-    ModService \
-    AudioMonitorHelper \
-    AudioMonitor \
-    ProjectorApp
+    ModFmwkProxyService
