@@ -162,7 +162,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.actions.xml:system/etc/permissions/com.motorola.actions.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.aov.xml:system/etc/permissions/com.motorola.aov.xml \
-    vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.camerabgproc_library.xml:system/etc/permissions/com.motorola.camerabgproc_library.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.cameraone.xml:system/etc/permissions/com.motorola.cameraone.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.haptic.xml:system/etc/permissions/com.motorola.haptic.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.hw.sensorhub.xml:system/etc/permissions/com.motorola.hw.sensorhub.xml \
@@ -170,7 +169,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.mod.xml:system/etc/permissions/com.motorola.mod.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.moto.xml:system/etc/permissions/com.motorola.moto.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.motodisplay.xml:system/etc/permissions/com.motorola.motodisplay.xml \
-    vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.motosignature.xml:system/etc/permissions/com.motorola.motosignature.xml \
     vendor/motorola/griffin/proprietary/etc/sec_config:system/etc/sec_config \
     vendor/motorola/griffin/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
     vendor/motorola/griffin/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
@@ -180,8 +178,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/etc/thermal-engine-sheridan-retcn.conf:system/etc/thermal-engine-sheridan-retcn.conf \
     vendor/motorola/griffin/proprietary/etc/vhw.xml:system/etc/vhw.xml \
     vendor/motorola/griffin/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
-    vendor/motorola/griffin/proprietary/framework/com.motorola.camerabgproc.jar:system/framework/com.motorola.camerabgproc.jar \
-    vendor/motorola/griffin/proprietary/framework/com.motorola.motosignature.jar:system/framework/com.motorola.motosignature.jar \
     vendor/motorola/griffin/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/motorola/griffin/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
     vendor/motorola/griffin/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
