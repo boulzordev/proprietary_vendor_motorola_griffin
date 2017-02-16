@@ -1014,9 +1014,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/bin/rild:system/bin/rild
 
 PRODUCT_COPY_FILES += \
-    vendor/qcom/binaries/bluetooth/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
-    vendor/qcom/binaries/bluetooth/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
-    vendor/qcom/binaries/bluetooth/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so
+    vendor/motorola/griffin/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/motorola/griffin/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/motorola/griffin/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so
 
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.bt.enableAptXHD=true
