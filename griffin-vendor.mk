@@ -1095,6 +1095,4 @@ PRODUCT_PACKAGES += \
     DMService \
     ModFmwkProxyService \
     ModService \
-    AudioMonitorHelper \
-    AudioMonitor \
     ProjectorApp
