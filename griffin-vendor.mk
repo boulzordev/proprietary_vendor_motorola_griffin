@@ -1110,4 +1110,6 @@ PRODUCT_PACKAGES += \
     DMService \
     ModFmwkProxyService \
     ModService \
-    ProjectorApp
+    ProjectorApp \
+    MotoDisplayFWProxy \
+    MotCameraMod
