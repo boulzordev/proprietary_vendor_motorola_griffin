@@ -150,6 +150,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/etc/firmware/synaptics-s3528g2-16030302-2308cb-griffin.tdat:system/etc/firmware/synaptics-s3528g2-16030302-2308cb-griffin.tdat \
     vendor/motorola/griffin/proprietary/etc/firmware/synaptics-s3528so1-15121701-1e29b4-sheridan.tdat:system/etc/firmware/synaptics-s3528so1-15121701-1e29b4-sheridan.tdat \
     vendor/motorola/griffin/proprietary/etc/firmware/upd-00000126-00001001-fed70128-fffe0001-02.tftf:system/etc/firmware/upd-00000126-00001001-fed70128-fffe0001-02.tftf \
+    vendor/motorola/griffin/proprietary/etc/firmware/upd-00000104-00006435-696e6369-00000103-03.tftf:system/etc/firmware/upd-00000104-00006435-696e6369-00000103-03.tftf \
     vendor/motorola/griffin/proprietary/etc/firmware/vrgain.bin:system/etc/firmware/vrgain.bin \
     vendor/motorola/griffin/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
     vendor/motorola/griffin/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
