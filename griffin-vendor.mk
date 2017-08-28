@@ -213,8 +213,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libmodmanager.so:system/lib64/libmodmanager.so \
     vendor/motorola/griffin/proprietary/lib64/libmotext_inf.so:system/lib64/libmotext_inf.so \
     vendor/motorola/griffin/proprietary/lib64/libmotocare.so:system/lib64/libmotocare.so \
-    vendor/motorola/griffin/proprietary/lib64/libnetfilter_conntrack.so:system/lib64/libnetfilter_conntrack.so \
-    vendor/motorola/griffin/proprietary/lib64/libnfnetlink.so:system/lib64/libnfnetlink.so \
     vendor/motorola/griffin/proprietary/lib64/libOmxVpp.so:system/lib64/libOmxVpp.so \
     vendor/motorola/griffin/proprietary/lib64/libpanelmode.so:system/lib64/libpanelmode.so \
     vendor/motorola/griffin/proprietary/lib64/libqcomfm_jni.so:system/lib64/libqcomfm_jni.so \
@@ -222,7 +220,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib64/libqti-iop.so:system/vendor/lib64/libqti-iop.so \
     vendor/motorola/griffin/proprietary/lib64/librilqmiservices.so:system/lib64/librilqmiservices.so \
     vendor/motorola/griffin/proprietary/lib64/libsensorhub.so:system/lib64/libsensorhub.so \
-   vendor/motorola/griffin/proprietary/lib64/hw/sensorhub.msm8996.so:system/lib64/hw/sensorhub.msm8996.so \
+    vendor/motorola/griffin/proprietary/lib64/hw/sensorhub.msm8996.so:system/lib64/hw/sensorhub.msm8996.so \
     vendor/motorola/griffin/proprietary/lib64/libslpc.so:system/lib64/libslpc.so \
     vendor/motorola/griffin/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
     vendor/motorola/griffin/proprietary/lib64/libtpa_core.so:system/lib64/libtpa_core.so \
@@ -1115,4 +1113,6 @@ PRODUCT_PACKAGES += \
     ModService \
     ProjectorApp \
     MotCameraMod \
-    libsdm-disp-apis
+    libsdm-disp-apis \
+    libnfnetlink \
+    libnetfilter_conntrack

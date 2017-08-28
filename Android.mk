@@ -296,4 +296,24 @@ LOCAL_MODULE_CLASS := SHARED_LIBRARIES
 LOCAL_MODULE_SUFFIX := .so
 include $(BUILD_PREBUILT)
 
+include $(CLEAR_VARS)
+LOCAL_MODULE := libnfnetlink
+LOCAL_MODULE_OWNER := motorola
+LOCAL_SRC_FILES := proprietary/lib64/libnfnetlink.so
+LOCAL_MULTILIB := 64
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := libnetfilter_conntrack
+LOCAL_MODULE_OWNER := motorola
+LOCAL_SRC_FILES := proprietary/lib64/libnetfilter_conntrack.so
+LOCAL_MULTILIB := 64
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+include $(BUILD_PREBUILT)
+
 endif
