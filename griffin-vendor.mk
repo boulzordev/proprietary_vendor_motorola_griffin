@@ -1079,7 +1079,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/sensor_calibrate.so:system/vendor/lib/sensor_calibrate.so \
     vendor/motorola/griffin/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
     vendor/motorola/griffin/proprietary/vendor/qcril.db:system/vendor/qcril.db \
-    vendor/motorola/griffin/proprietary/bin/rild:vendor/bin/hw/rild \
+    vendor/motorola/griffin/proprietary/bin/rild:system/vendor/bin/hw/rild \
     vendor/motorola/griffin/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/motorola/griffin/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
     vendor/motorola/griffin/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so
