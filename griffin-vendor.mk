@@ -222,7 +222,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libsensorhub.so:system/lib64/libsensorhub.so \
     vendor/motorola/griffin/proprietary/lib64/hw/sensorhub.msm8996.so:system/lib64/hw/sensorhub.msm8996.so \
     vendor/motorola/griffin/proprietary/lib64/libslpc.so:system/lib64/libslpc.so \
-    vendor/motorola/griffin/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
     vendor/motorola/griffin/proprietary/lib64/libtpa_core.so:system/lib64/libtpa_core.so \
     vendor/motorola/griffin/proprietary/lib64/libtpa.so:system/lib64/libtpa.so \
     vendor/motorola/griffin/proprietary/lib64/libvpplibrary.so:system/lib64/libvpplibrary.so \
@@ -294,7 +293,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib/librilqmiservices.so:system/lib/librilqmiservices.so \
     vendor/motorola/griffin/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
     vendor/motorola/griffin/proprietary/lib/libslpc.so:system/lib/libslpc.so \
-    vendor/motorola/griffin/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/motorola/griffin/proprietary/lib/libtpa_core.so:system/lib/libtpa_core.so \
     vendor/motorola/griffin/proprietary/lib/libtpa.so:system/lib/libtpa.so \
     vendor/motorola/griffin/proprietary/lib/libunshorten.so:system/lib/libunshorten.so \
@@ -1080,9 +1078,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
     vendor/motorola/griffin/proprietary/vendor/qcril.db:system/vendor/qcril.db \
     vendor/motorola/griffin/proprietary/bin/rild:system/vendor/bin/hw/rild \
-    vendor/motorola/griffin/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
-    vendor/motorola/griffin/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
-    vendor/motorola/griffin/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
