@@ -1077,7 +1077,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/sensor_calibrate.so:system/vendor/lib/sensor_calibrate.so \
     vendor/motorola/griffin/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
     vendor/motorola/griffin/proprietary/vendor/qcril.db:system/vendor/qcril.db \
-    vendor/motorola/griffin/proprietary/bin/rild:system/vendor/bin/hw/rild \
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
@@ -1088,7 +1087,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.bt.enableAptXHD=true
 
 PRODUCT_PACKAGES += \
-    libril \
     libloc_api_v02 \
     libthermalclient \
     libtime_genoff \
