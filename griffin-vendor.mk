@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/motorola/griffin/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/motorola/griffin/proprietary/bin/ftmipcd:system/bin/ftmipcd \
-    vendor/motorola/griffin/proprietary/bin/gatekeeperd:system/bin/gatekeeperd \
     vendor/motorola/griffin/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/griffin/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/motorola/griffin/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
