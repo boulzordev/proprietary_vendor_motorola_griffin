@@ -1076,6 +1076,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
     vendor/motorola/griffin/proprietary/vendor/qcril.db:system/vendor/qcril.db \
     vendor/motorola/griffin/proprietary/lib64/libqsap_sdk.so:system/lib64/libqsap_sdk.so \
+    vendor/motorola/griffin/proprietary/vendor/lib/libprotobuf-cpp-shit.so:system/vendor/lib/libprotobuf-cpp-shit.so \
+    vendor/motorola/griffin/proprietary/vendor/lib64/libprotobuf-cpp-shit.so:system/vendor/lib64/libprotobuf-cpp-shit.so 
+
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
