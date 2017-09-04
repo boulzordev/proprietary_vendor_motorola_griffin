@@ -189,7 +189,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
     vendor/motorola/griffin/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/motorola/griffin/proprietary/lib64/fm_helium.so:system/lib64/fm_helium.so \
-    vendor/motorola/griffin/proprietary/lib64/hw/fingerprint.msm8996.so:system/lib64/hw/fingerprint.msm8996.so \
+    vendor/motorola/griffin/proprietary/lib64/hw/fingerprint.msm8996.so:system/vendor/lib64/hw/fingerprint.vendor.msm8996.so \
     vendor/motorola/griffin/proprietary/lib64/hw/sensors.iio.so:system/lib64/hw/sensors.iio.so \
     vendor/motorola/griffin/proprietary/lib64/hw/sensors.griffin.so:system/lib64/hw/sensors.griffin.so \
     vendor/motorola/griffin/proprietary/lib64/hw/sensors.msm8996.so:system/lib64/hw/sensors.msm8996.so \
@@ -240,7 +240,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib/hw/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so \
     vendor/motorola/griffin/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
     vendor/motorola/griffin/proprietary/lib/hw/camera.rc.so:system/lib/hw/camera.rc.so \
-    vendor/motorola/griffin/proprietary/lib/hw/fingerprint.msm8996.so:system/lib/hw/fingerprint.msm8996.so \
+    vendor/motorola/griffin/proprietary/lib/hw/fingerprint.msm8996.so:system/vendor/lib/hw/fingerprint.vendor.msm8996.so \
     vendor/motorola/griffin/proprietary/lib/hw/sensors.griffin.so:system/lib/hw/sensors.griffin.so \
     vendor/motorola/griffin/proprietary/lib/hw/thermal.msm8996.so:system/lib/hw/thermal.msm8996.so \
     vendor/motorola/griffin/proprietary/lib/hw/vr.msm8996.so:system/lib/hw/vr.msm8996.so \
