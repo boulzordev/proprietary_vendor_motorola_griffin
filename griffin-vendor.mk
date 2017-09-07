@@ -172,7 +172,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.motodisplay.xml:system/etc/permissions/com.motorola.motodisplay.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/motorola/griffin/proprietary/etc/sec_config:system/etc/sec_config \
-    vendor/motorola/griffin/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
+    vendor/motorola/griffin/proprietary/etc/sensors/hals.conf:system/vendor/etc/sensors/hals.conf \
     vendor/motorola/griffin/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/motorola/griffin/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/motorola/griffin/proprietary/etc/thermal-engine-griffin.conf:system/etc/thermal-engine-griffin.conf \
