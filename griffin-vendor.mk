@@ -172,8 +172,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/etc/permissions/com.motorola.motodisplay.xml:system/etc/permissions/com.motorola.motodisplay.xml \
     vendor/motorola/griffin/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/motorola/griffin/proprietary/etc/sec_config:system/etc/sec_config \
-    vendor/motorola/griffin/proprietary/etc/sensors/hals.conf:system/vendor/etc/sensors/hals.conf \
-    vendor/motorola/griffin/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/motorola/griffin/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/motorola/griffin/proprietary/etc/thermal-engine-griffin.conf:system/etc/thermal-engine-griffin.conf \
     vendor/motorola/griffin/proprietary/etc/thermal-engine-sheridan.conf:system/etc/thermal-engine-sheridan.conf \
@@ -192,9 +190,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/hw/fingerprint.msm8996.so:system/vendor/lib64/hw/fingerprint.vendor.msm8996.so \
     vendor/motorola/griffin/proprietary/lib64/hw/sensors.iio.so:system/lib64/hw/sensors.iio.so \
     vendor/motorola/griffin/proprietary/lib64/hw/sensors.griffin.so:system/lib64/hw/sensors.griffin.so \
-    vendor/motorola/griffin/proprietary/lib64/hw/sensors.msm8996.so:system/lib64/hw/sensors.msm8996.so \
+    vendor/motorola/griffin/proprietary/lib64/hw/sensors.msm8996.so:system/lib64/sensors.moto.so \
     vendor/motorola/griffin/proprietary/lib/hw/sensors.iio.so:system/lib/hw/sensors.iio.so \
-    vendor/motorola/griffin/proprietary/lib/hw/sensors.msm8996.so:system/lib/hw/sensors.msm8996.so \
+    vendor/motorola/griffin/proprietary/lib/hw/sensors.msm8996.so:system/lib/sensors.moto.so \
     vendor/motorola/griffin/proprietary/lib/hw/sensors.griffin.so:system/lib/hw/sensors.griffin.so \
     vendor/motorola/griffin/proprietary/lib64/hw/thermal.msm8996.so:system/lib64/hw/thermal.msm8996.so \
     vendor/motorola/griffin/proprietary/lib64/hw/vr.msm8996.so:system/lib64/hw/vr.msm8996.so \
