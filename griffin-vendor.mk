@@ -1073,7 +1073,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
     vendor/motorola/griffin/proprietary/vendor/qcril.db:system/vendor/qcril.db \
     vendor/motorola/griffin/proprietary/vendor/lib/libprotobuf-cpp-shit.so:system/vendor/lib/libprotobuf-cpp-shit.so \
-    vendor/motorola/griffin/proprietary/vendor/lib64/libprotobuf-cpp-shit.so:system/vendor/lib64/libprotobuf-cpp-shit.so 
+    vendor/motorola/griffin/proprietary/vendor/lib64/libprotobuf-cpp-shit.so:system/vendor/lib64/libprotobuf-cpp-shit.so \
+    vendor/motorola/griffin/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
+    vendor/motorola/griffin/proprietary/lib64/libmemalloc.so:system/lib64/libmemalloc.so 
 
 
 PRODUCT_COPY_FILES += \
