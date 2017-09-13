@@ -1092,7 +1092,6 @@ PRODUCT_PACKAGES += \
     embms \
     TimeService \
     atfwd \
-    CNEService \
     qcrilmsgtunnel \
     ims \
     imssettings \
