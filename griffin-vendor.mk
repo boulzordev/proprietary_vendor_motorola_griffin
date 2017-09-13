@@ -1105,7 +1105,6 @@ PRODUCT_PACKAGES += \
     DMService \
     QtiTetherService \
     com.qualcomm.location \
-    ModFmwkProxyService \
     ModService \
     ProjectorApp \
     MotCameraMod \
