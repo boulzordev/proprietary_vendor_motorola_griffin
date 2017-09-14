@@ -278,6 +278,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libbson.so:system/lib64/libbson.so \
     vendor/motorola/griffin/proprietary/lib64/libcce-socketjni.so:system/lib64/libcce-socketjni.so \
     vendor/motorola/griffin/proprietary/lib64/libcom_fingerprints_service.so:system/lib64/libcom_fingerprints_service.so \
+    vendor/motorola/griffin/proprietary/vendor/lib64/libHui.so:system/vendor/lib64/libHui.so \
     vendor/motorola/griffin/proprietary/lib64/libiio.so:system/lib64/libiio.so \
     vendor/motorola/griffin/proprietary/lib64/libipanat.so:system/lib64/libipanat.so \
     vendor/motorola/griffin/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
@@ -297,6 +298,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
     vendor/motorola/griffin/proprietary/lib64/libtpa.so:system/lib64/libtpa.so \
     vendor/motorola/griffin/proprietary/lib64/libtpa_core.so:system/lib64/libtpa_core.so \
+    vendor/motorola/griffin/proprietary/vendor/lib64/libHu.so:system/vendor/lib64/libHu.so \
     vendor/motorola/griffin/proprietary/lib64/libvpplibrary.so:system/lib64/libvpplibrary.so \
     vendor/motorola/griffin/proprietary/lib64/libwifi-hal-qcom.so:system/lib64/libwifi-hal-qcom.so \
     vendor/motorola/griffin/proprietary/lib64/libwpa_client.so:system/lib64/libwpa_client.so \
