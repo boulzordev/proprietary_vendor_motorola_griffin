@@ -36,6 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/motorola/griffin/proprietary/bin/mdm_helper:system/bin/mdm_helper \
     vendor/motorola/griffin/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/motorola/griffin/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/motorola/griffin/proprietary/bin/mods_camd:system/bin/mods_camd \
     vendor/motorola/griffin/proprietary/bin/motosh:system/bin/motosh \
     vendor/motorola/griffin/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
@@ -235,6 +236,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib/libmotocare.so:system/lib/libmotocare.so \
     vendor/motorola/griffin/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
     vendor/motorola/griffin/proprietary/lib/libpanelmode.so:system/lib/libpanelmode.so \
+    vendor/motorola/griffin/proprietary/vendor/lib/libpanelmode.so:system/vendor/lib/libpanelmode.so \
     vendor/motorola/griffin/proprietary/lib/libpkip.so:system/lib/libpkip.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libprotobuf-cpp-shit.so:system/vendor/lib/libprotobuf-cpp-shit.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libprotobuf-cpp-Hlit.so:system/vendor/lib/libprotobuf-cpp-Hlit.so \
@@ -276,6 +278,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libadropbox.so:system/lib64/libadropbox.so \
     vendor/motorola/griffin/proprietary/lib64/libadspd.so:system/lib64/libadspd.so \
     vendor/motorola/griffin/proprietary/lib64/libbson.so:system/lib64/libbson.so \
+    vendor/motorola/griffin/proprietary/vendor/lib/libbson.so:system/vendor/lib/libbson.so \
     vendor/motorola/griffin/proprietary/lib64/libcce-socketjni.so:system/lib64/libcce-socketjni.so \
     vendor/motorola/griffin/proprietary/lib64/libcom_fingerprints_service.so:system/lib64/libcom_fingerprints_service.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libHui.so:system/vendor/lib64/libHui.so \
