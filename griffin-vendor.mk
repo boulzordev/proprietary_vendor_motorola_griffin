@@ -539,7 +539,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libgdtap.so:system/vendor/lib/libgdtap.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
-    vendor/motorola/griffin/proprietary/vendor/lib/libgpustats.so:system/vendor/lib/libgpustats.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libimscamera_jni.so:system/vendor/lib/libimscamera_jni.so \
@@ -928,7 +927,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib64/libflp.so:system/vendor/lib64/libflp.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libgdtap.so:system/vendor/lib64/libgdtap.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libgeofence.so:system/vendor/lib64/libgeofence.so \
-    vendor/motorola/griffin/proprietary/vendor/lib64/libgpustats.so:system/vendor/lib64/libgpustats.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libgsl.so:system/vendor/lib64/libgsl.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libidl.so:system/vendor/lib64/libidl.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libimscamera_jni.so:system/vendor/lib64/libimscamera_jni.so \
@@ -1086,6 +1084,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.bt.enableAptXHD=true
 
 PRODUCT_PACKAGES += \
+    libgpustats \
     libloc_api_v02 \
     libsdm-disp-apis \
     libthermalclient \
