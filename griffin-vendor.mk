@@ -215,6 +215,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libHui.so:system/vendor/lib/libHui.so \
     vendor/motorola/griffin/proprietary/lib/libiio.so:system/lib/libiio.so \
+    vendor/motorola/griffin/proprietary/lib/libfamily_photo.so:system/lib/libfamily_photo.so \
     vendor/motorola/griffin/proprietary/lib/libjscore.so:system/lib/libjscore.so \
     vendor/motorola/griffin/proprietary/lib/libjustshoot.so:system/lib/libjustshoot.so \
     vendor/motorola/griffin/proprietary/lib/libmbs.so:system/lib/libmbs.so \
