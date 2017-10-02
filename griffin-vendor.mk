@@ -220,7 +220,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib/libjustshoot.so:system/lib/libjustshoot.so \
     vendor/motorola/griffin/proprietary/lib/libmbs.so:system/lib/libmbs.so \
     vendor/motorola/griffin/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
-    vendor/motorola/griffin/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/motorola/griffin/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/motorola/griffin/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/motorola/griffin/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
@@ -284,7 +283,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libipanat.so:system/lib64/libipanat.so \
     vendor/motorola/griffin/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/motorola/griffin/proprietary/lib64/libmdmcutback.so:system/lib64/libmdmcutback.so \
-    vendor/motorola/griffin/proprietary/lib64/libmemalloc.so:system/lib64/libmemalloc.so \
     vendor/motorola/griffin/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
     vendor/motorola/griffin/proprietary/lib64/libmodmanager.so:system/lib64/libmodmanager.so \
     vendor/motorola/griffin/proprietary/lib64/libmotext_inf.so:system/lib64/libmotext_inf.so \
